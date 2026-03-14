@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F172A"/>
+      <stop offset="100%" style="stop-color:#1E293B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#E6A57E"/>
+      <stop offset="100%" style="stop-color:#F472B6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="200" cy="150" r="300" fill="rgba(244,114,182,0.06)"/>
+  <circle cx="1000" cy="480" r="250" fill="rgba(230,165,126,0.05)"/>
+  <text x="600" y="240" text-anchor="middle" font-family="Georgia, serif" font-size="72" fill="white" font-weight="bold">Love Arcade</text>
+  <text x="600" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="url(#accent)">9 Levels of Us</text>
+  <text x="600" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.5)">A cinematic, interactive romantic experience</text>
+  <text x="600" y="480" text-anchor="middle" font-size="48">💎 ❤️ 🎮</text>
+  <rect x="100" y="580" width="1000" height="4" rx="2" fill="url(#accent)" opacity="0.3"/>
+</svg>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abhaysingh4feb-s.github.io/love-arcade/sitemap.xml
