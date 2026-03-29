@@ -1,3 +1,7 @@
+## Live Demo
+
+Hosted on GitHub Pages: https://abhaysingh4feb-s.github.io/love-arcade/
+
 # The Love Arcade — 9 Levels of Us
 
 A cinematic, interactive romantic web experience built as a personalized journey through 9 mini-games. Each level celebrates a relationship milestone — from shared memories to a final confession — progressively unlocking as you play.
